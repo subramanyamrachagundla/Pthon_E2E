@@ -1,1 +1,1 @@
-
+Python is a powerful, high-level programming language known for its readability and simplicity. Created by Guido van Rossum and first released in 1991, its design philosophy emphasizes clear, concise code, which is why it's often a great choice for both beginners and experienced developers. Software Development: Used for building desktop applications, games, and other software.Web Development: Used for creating the back-end (server-side) logic of websites and web applications.
