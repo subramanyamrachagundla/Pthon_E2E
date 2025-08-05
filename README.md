@@ -149,9 +149,8 @@
 
 <hr>
 
-<h3>📬 Contact</h3>
 <p>
-  Created by [Your Name] — feel free to connect!
+  Created by [R Subramanyam] — feel free to connect!
 </p>
 
 </body>
